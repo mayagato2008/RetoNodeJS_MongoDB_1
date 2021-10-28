@@ -1,0 +1,15 @@
+{
+  "name": "crud-inscripcion",
+  "version": "1.0.0",
+  "description": "inscripción oferta laboral",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jairo Maya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
+}
